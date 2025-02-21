@@ -1,6 +1,7 @@
 # Snake Game
 
-This repository contains the source code for a fully functional Snake Game built using HTML, CSS, and JavaScript. The game features audio integration, as well as a scoring system that tracks the current score and high score. It’s a fun and interactive project showcasing pure front-end development skills.
+This repository contains the source code for a fully functional Snake Game built using HTML, CSS, and JavaScript. The game features audio integration, as well as a scoring system that tracks the current score and high score. It’s a fun and interactive project showcasing pure front-end development skills.<br />
+Checkout the live demo here : https://abhayaagr.github.io/snakePro-game/
 
 ## Features
 - Classic Snake Gameplay: Control the snake to eat food, grow longer, and avoid hitting the walls or itself.
